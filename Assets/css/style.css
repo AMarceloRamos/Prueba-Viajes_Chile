@@ -1,12 +1,25 @@
-/* header{
-    position: relative;
-    display: inline-block;
+body, html{
+
+	background-color:black;
+}
+nav{
+	width:80%;
+	margin:0px auto;
+}
+ section{
+	
+	width:80%;
+	margin:0px auto;
+	
 }
 
-.navbar
-{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-} */
+section img{
+
+	width: 242px;
+	height: 161px;
+}
+
+footer ul li a{
+
+	white-space: nowrap;
+}
